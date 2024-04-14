@@ -40,6 +40,4 @@ export const configurePassport = async () => {
       }
     })
   );
-
-  passport.use;
 };
